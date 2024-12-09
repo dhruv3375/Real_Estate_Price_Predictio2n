@@ -5,4 +5,4 @@ This project aims to:
 - Provide property recommendations based on user preferences and similar property features.
 - Offer analytics to visualize trends and understand the real estate market better.
 
-![image alt]()
+![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.1.PNG)
