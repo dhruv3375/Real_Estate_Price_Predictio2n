@@ -4,3 +4,5 @@ This project aims to:
 - Predict property prices based on various features such as area, facilities, and location advantages.
 - Provide property recommendations based on user preferences and similar property features.
 - Offer analytics to visualize trends and understand the real estate market better.
+
+![image alt]()
