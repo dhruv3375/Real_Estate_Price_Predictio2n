@@ -7,6 +7,8 @@ This project aims to:
 
 ![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.1.PNG)
 
+**Analytics Module**
+
 ![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.2.PNG)
 
 ![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.3.PNG)
