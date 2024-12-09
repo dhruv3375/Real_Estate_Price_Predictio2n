@@ -6,3 +6,10 @@ This project aims to:
 - Offer analytics to visualize trends and understand the real estate market better.
 
 ![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.1.PNG)
+
+![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.2.PNG)
+
+![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.3.PNG)
+
+![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.4.PNG)
+
