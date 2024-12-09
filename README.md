@@ -9,9 +9,16 @@ This project aims to:
 
 **Analytics Module**
 
+
+
+
 ![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.2.PNG)
 
+**Plot Distributions of Different Parameters of Gurgaon City**
+
 ![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.3.PNG)
+
+
 
 ![image alt](https://github.com/dhruv3375/Real_Estate_Price_Predictio2n/blob/main/1.4.PNG)
 
